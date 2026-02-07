@@ -2,6 +2,8 @@
 
 A smart solar tracking system that automatically orients a solar panel towards the brightest light source (the sun) to maximize energy efficiency. This project uses 4 LDRs (Light Dependent Resistors) to detect light intensity and 2 Servo motors to move the panel horizontally and vertically.
 
+![project Preview](assets/ssr.jpeg)
+
 ## 🚀 Features
 * **Dual-Axis Tracking:** Follows the sun's path from East to West and adjusts its tilt (elevation) for seasonal changes.
 * **Signal Smoothing:** Uses an averaging algorithm to prevent servo jitter caused by sensor noise.
